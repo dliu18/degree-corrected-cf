@@ -1,0 +1,3 @@
+[submodule "LightGCN"]
+	path = LightGCN
+	url = https://github.com/gusye1234/LightGCN-PyTorch.git
